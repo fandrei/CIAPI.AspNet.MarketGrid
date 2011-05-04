@@ -1,0 +1,11 @@
+bin/
+obj/
+_result/
+*.suo
+
+*.Resharper.user
+ReSharper.user
+.ReSharper.user
+
+.VisualState.xml
+TestResult.xml
