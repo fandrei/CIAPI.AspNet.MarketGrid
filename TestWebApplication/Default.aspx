@@ -6,13 +6,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>MarketGrid demo</title>
-    <link type="text/css" href="js/libs/jquery-ui-1.8.11.custom/css/dark-hive/jquery-ui-1.8.11.custom.css"
-        rel="Stylesheet" />
+<!--    <link type="text/css" href="js/libs/jquery-ui-1.8.11.custom/css/dark-hive/jquery-ui-1.8.11.custom.css"
+        rel="Stylesheet" />-->
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
-    <script type="text/javascript" src="js/libs/jquery-ui-1.8.11.custom/js/jquery-ui-1.8.11.custom.min.js"></script>
         <cc1:MarketGrid runat="server" />
     </div>
     </form>
